@@ -130,6 +130,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
     <td align="center"><a href="https://github.com/NicholasBoll"><img src="https://avatars2.githubusercontent.com/u/338257?v=4" width="100px;" alt=""/><br /><sub><b>Nicholas Boll</b></sub></a><br /><a href="https://github.com/pgroot91/cypress-axe/commits?author=NicholasBoll" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/michaeljacobdavis"><img src="https://avatars2.githubusercontent.com/u/916905?v=4" width="100px;" alt=""/><br /><sub><b>Mike Davis</b></sub></a><br /><a href="https://github.com/pgroot91/cypress-axe/commits?author=michaeljacobdavis" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/chit786"><img src="https://avatars2.githubusercontent.com/u/18376182?v=4" width="100px;" alt=""/><br /><sub><b>chit786</b></sub></a><br /><a href="https://github.com/pgroot91/cypress-axe/commits?author=chit786" title="Tests">⚠️</a> <a href="https://github.com/pgroot91/cypress-axe/commits?author=chit786" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/acourdavaultLinode"><img src="https://avatars3.githubusercontent.com/u/57962167?v=4" width="100px;" alt=""/><br /><sub><b>acourdavaultLinode</b></sub></a><br /><a href="#maintenance-acourdavaultLinode" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 

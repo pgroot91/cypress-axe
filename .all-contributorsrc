@@ -55,6 +55,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "acourdavaultLinode",
+      "name": "acourdavaultLinode",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57962167?v=4",
+      "profile": "https://github.com/acourdavaultLinode",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
