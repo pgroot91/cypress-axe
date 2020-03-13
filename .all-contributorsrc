@@ -1,6 +1,6 @@
 {
   "projectName": "cypress-axe",
-  "projectOwner": "avanslaars",
+  "projectOwner": "pgroot91",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -34,6 +34,16 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/338257?v=4",
       "profile": "https://github.com/NicholasBoll",
       "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "chit786",
+      "name": "chit786",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18376182?v=4",
+      "profile": "https://github.com/chit786",
+      "contributions": [
+        "test",
         "code"
       ]
     }
